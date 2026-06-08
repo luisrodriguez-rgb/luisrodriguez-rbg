@@ -1,6 +1,6 @@
 # luisrodriguez-rbg
 Información para poner en el perfil
-# 👋 Hola, soy Luis Rodríguez
+#  Hola, soy Luis Rodríguez
 
 ### Estudiante de Ingeniería Industrial | Desarrollador Web | Emprendedor Digital
 
@@ -8,9 +8,9 @@ Me apasiona construir soluciones digitales que combinen tecnología, diseño y e
 
 ---
 
-## 📌 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🌐 Software Integral para Retaurantes
+###  Software Integral para Retaurantes
 
 Breve descripción de lo que hace el proyecto, el problema que resuelve y las tecnologías utilizadas.
 
@@ -21,7 +21,7 @@ Breve descripción de lo que hace el proyecto, el problema que resuelve y las te
 
 ---
 
-### 📊 Ferreteria el Dorado - Popayán
+### Ferreteria el Dorado - Popayán
 
 Breve descripción del proyecto.
 
@@ -32,7 +32,7 @@ Breve descripción del proyecto.
 
 ---
 
-### 🤖 Sh Store
+### Sh Store
 
 Breve descripción del proyecto.
 
@@ -63,7 +63,7 @@ Breve descripción del proyecto.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 [luisrodrigeuz@itipopayan.edu.co)
 ---
