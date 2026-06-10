@@ -16,8 +16,8 @@ Breve descripción de lo que hace el proyecto, el problema que resuelve y las te
 
 **Tecnologías:** HTML, CSS, JavaScript
 
-🔗 Demo: enlace
-📂 Repositorio: enlace
+Demo: [enlace](https://produccion-nine.vercel.app/index.html)
+Repositorio: [enlace](https://github.com/luisrodriguez-rgb/El-Sabio)
 
 ---
 
@@ -27,8 +27,8 @@ Breve descripción del proyecto.
 
 **Tecnologías:** React, Node.js, MySQL
 
-🔗 Demo: enlace
-📂 Repositorio: enlace
+ Demo: [enlace](https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/)
+ Repositorio: [enlace](https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado)
 
 ---
 
@@ -43,7 +43,7 @@ Breve descripción del proyecto.
 
 ---
 
-## 📈 Actualmente estoy trabajando en
+##  Actualmente estoy trabajando en
 
 * Desarrollo de aplicacione SaaS.
 * Ecommerce y Dropshipping.
@@ -53,7 +53,7 @@ Breve descripción del proyecto.
 
 ---
 
-## 🎯 Objetivos para 2026
+##  Objetivos para 2026
 
 * Lanzar una SaaS propia.
 * Construir un portafolio sólido de proyectos.
@@ -65,7 +65,7 @@ Breve descripción del proyecto.
 
 ## Contacto
 
-📧 [luisrodrigeuz@itipopayan.edu.co)
+ [luisrodrigeuz@itipopayan.edu.co)
 ---
 
 > "Construyendo soluciones que conectan tecnología, negocio y experiencia de usuario."
