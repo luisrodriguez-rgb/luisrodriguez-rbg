@@ -16,8 +16,8 @@ Breve descripción de lo que hace el proyecto, el problema que resuelve y las te
 
 **Tecnologías:** HTML, CSS, JavaScript
 
-Demo: [enlace](https://produccion-nine.vercel.app/index.html)
-Repositorio: [enlace](https://github.com/luisrodriguez-rgb/El-Sabio)
+Demo: [enlace-landing](https://produccion-nine.vercel.app/index.html)
+Repositorio: [enlace-repo](https://github.com/luisrodriguez-rgb/El-Sabio)
 
 ---
 
@@ -27,8 +27,8 @@ Breve descripción del proyecto.
 
 **Tecnologías:** React, Node.js, MySQL
 
- Demo: [enlace](https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/)
- Repositorio: [enlace](https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado)
+ Demo: [enlace-landing](https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/)
+ Repositorio: [enlace-rep](https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado)
 
 ---
 
